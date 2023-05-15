@@ -1,0 +1,13 @@
+* {
+    padding: 0;
+    margin: 20;
+    font-size: 40px;
+}
+
+
+li {
+    background-color: yellow;
+    font-size: 22px;
+    font-weight: 800;
+    padding: 20px;
+}
